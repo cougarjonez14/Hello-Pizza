@@ -11,6 +11,9 @@
 		A23F59A32B2C134B00F1EB06 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23F59A22B2C134B00F1EB06 /* ContentView.swift */; };
 		A23F59A52B2C134C00F1EB06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A23F59A42B2C134C00F1EB06 /* Assets.xcassets */; };
 		A23F59A82B2C134C00F1EB06 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A23F59A72B2C134C00F1EB06 /* Preview Assets.xcassets */; };
+		A23F59AF2B2C305000F1EB06 /* MenuItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23F59AE2B2C305000F1EB06 /* MenuItemView.swift */; };
+		A23F59B12B2C34C700F1EB06 /* jameosign.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A23F59B02B2C34C600F1EB06 /* jameosign.jpg */; };
+		A23F59B32B2C34E600F1EB06 /* pizza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A23F59B22B2C34E600F1EB06 /* pizza.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		A23F59A22B2C134B00F1EB06 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A23F59A42B2C134C00F1EB06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A23F59A72B2C134C00F1EB06 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A23F59AE2B2C305000F1EB06 /* MenuItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemView.swift; sourceTree = "<group>"; };
+		A23F59B02B2C34C600F1EB06 /* jameosign.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jameosign.jpg; sourceTree = "<group>"; };
+		A23F59B22B2C34E600F1EB06 /* pizza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pizza.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,7 @@
 			children = (
 				A23F59A02B2C134B00F1EB06 /* Hello_PizzaApp.swift */,
 				A23F59A22B2C134B00F1EB06 /* ContentView.swift */,
+				A23F59AE2B2C305000F1EB06 /* MenuItemView.swift */,
 				A23F59A42B2C134C00F1EB06 /* Assets.xcassets */,
 				A23F59A62B2C134C00F1EB06 /* Preview Content */,
 			);
@@ -63,6 +70,8 @@
 			isa = PBXGroup;
 			children = (
 				A23F59A72B2C134C00F1EB06 /* Preview Assets.xcassets */,
+				A23F59B02B2C34C600F1EB06 /* jameosign.jpg */,
+				A23F59B22B2C34E600F1EB06 /* pizza.jpg */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -127,6 +136,8 @@
 			files = (
 				A23F59A82B2C134C00F1EB06 /* Preview Assets.xcassets in Resources */,
 				A23F59A52B2C134C00F1EB06 /* Assets.xcassets in Resources */,
+				A23F59B32B2C34E600F1EB06 /* pizza.jpg in Resources */,
+				A23F59B12B2C34C700F1EB06 /* jameosign.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A23F59A32B2C134B00F1EB06 /* ContentView.swift in Sources */,
+				A23F59AF2B2C305000F1EB06 /* MenuItemView.swift in Sources */,
 				A23F59A12B2C134B00F1EB06 /* Hello_PizzaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
